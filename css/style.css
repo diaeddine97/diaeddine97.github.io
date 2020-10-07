@@ -56,7 +56,7 @@
 
 body {
   font-family: 'Electrolize', sans-serif !important;
-  background-image: url('images/science-fiction-2907434_1280.jpg');
+  background-image: url('../images/science-fiction-2907434_1280.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   transition: 1.5s;
