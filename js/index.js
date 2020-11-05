@@ -124,3 +124,12 @@ particlesJS("particles-js", {
     }, 10000);
 })();
 
+
+$(document).on("click", ".showcertif", function () {
+
+    var image = $(this).data('image');
+
+    $("#certifmodal .modal-body img")[0].src = "/images/certificates/"+image+"";
+
+});
+
